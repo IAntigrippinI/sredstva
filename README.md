@@ -1,1 +1,2 @@
 # sredstva
+# git-cli
